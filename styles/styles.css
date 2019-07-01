@@ -42,7 +42,53 @@ main {
 }
 
 
+#marg {
+    position: relative;
+    left: 500px;
+    
+}
 
+#mush {
+    
+    position: relative;
+    
+}
+
+#onions {
+    
+    position: relative;
+    left: 700px;
+ 
+}
+
+#picnic {
+    
+    position:relative;
+    bottom:900px;
+}
+
+#ricotta {
+    
+    position: relative;
+    bottom: 600px;
+    
+}
+
+#uncooked {
+    
+    position: relative;
+    left: 800px;
+    bottom: 1000px;
+    
+}
+
+#salami {
+    
+    position: relative;
+    bottom: 900px;
+    left: 300px;
+    
+}
 
 
 
@@ -65,6 +111,12 @@ footer p {
     color: beige;
 }
 
+#footerparam {
+    font-size: 16px;
+    font-family: cursive;
+    color: beige;
+}
+
 
 
 /*Text Style START*/
@@ -82,12 +134,8 @@ main h1 {
     font-size: 48px;
 }
 
-p {
-    font-size: 24px;
-    font-family: cursive;
-    color: chocolate;
 
-}
+
 
 
 
@@ -119,13 +167,8 @@ header a {
 
 
 
-/* Text Style END*/
 
-/* Image Styles START */
 
-#aboutmecaption {
-    text-align: center;
-}
 
 
 
